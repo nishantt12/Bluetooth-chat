@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_settings"/>
+    <item
+        android:id="@+id/secure_connect_scan"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_1settings"/>
+    <item
+        android:id="@+id/insecure_connect_scan"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_2settings"/>
+    <item
+        android:id="@+id/discoverable"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_3settings"/>
+
+</menu>
